@@ -21,12 +21,6 @@ A simple and user-friendly Android application to calculate and track CGPA (Cumu
 
 ---
 
-## Screenshots 📸
-
-Coming Soon!
-
----
-
 ## Tech Stack 🛠️
 
 - **Language:** Kotlin
